@@ -1,5 +1,5 @@
 .body {
-    padding-top: 64px;
+    padding-top: 53px;
     
 }
 .container1 {
@@ -10,7 +10,7 @@
     align-items: center;
     position: fixed;
     top: 0;
-    left: 0;
+    left: 0px;
     width: 100%;
 
 }
