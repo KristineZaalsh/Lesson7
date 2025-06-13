@@ -5,6 +5,8 @@
 .header-position {
     position: fixed;
     width: 100%;
+    top: 0;
+    left: 0;
 }
 .container1 {
     width: 1220px;
