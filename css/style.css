@@ -2,16 +2,16 @@
     padding-top: 53px;
     
 }
+.header-position {
+    position: fixed;
+    width: 100%;
+}
 .container1 {
     width: 1220px;
     display: flex; 
     margin: 0 auto; 
     justify-content: space-between;
     align-items: center;
-    position: fixed;
-    top: 0;
-    left: 0px;
-    width: 100%;
 
 }
 .right-block {
